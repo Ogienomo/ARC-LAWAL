@@ -1,0 +1,1 @@
+{"result":{"cols":[{"name":"ok","decltype":null}],"rows":[[{"type":"integer","value":"1"}]],"affected_row_count":0,"last_insert_rowid":null,"replication_index":null,"rows_read":0,"rows_written":0,"query_duration_ms":134.153}}

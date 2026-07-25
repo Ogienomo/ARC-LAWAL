@@ -1,0 +1,84 @@
+id,auditId,auditDate,auditSchoolType,auditAuditorName,auditWeatherConditions,auditHasRamps,auditHasDoors,auditHasToilets,auditHasFurniture,schoolId,schoolSn,schoolLgea,schoolName,schoolAddress,rampCompositeScore,rampComplianceLevel,doorCompositeScore,doorComplianceLevel,toiletCompositeScore,toiletComplianceLevel,furnitureCompositeScore,furnitureComplianceLevel,overallScore,overallCompliance,keyBarriers
+cmr5xbifs0066sityx18oy0w4,cmr5xbifs0061sityqdgdwm0d,2026-07-03,Mainstream Elementary,Field Researcher,Heavy Rain,Yes,Yes,Yes,Yes,cmr3lrv2f000gsr3ochaift84,17,IKORODU,"U. P. E. PRIMARY SCHOOL, AJAGURO","COLE VILLAGE, AJAGURO, IKORODU",66.0,PC,66.0,PC,45.0,NC,46.0,NC,55.75,PC,There were no barriers during the audit
+cmr5xbifx006isityp9fmgf8u,cmr5xbifx0068sity3ynj5s9p,2026-07-03,Mainstream Elementary,Field Researcher,Sunny,Yes,Yes,Yes,Yes,cmr3lrv200007sr3o12vnpkt7,8,BADAGRY,ANG. PRIMARY SCHOOL ARADAGUN/MOSAFEJO,ALONG IWORO AJIDO ROAD ARADAGUN MOSAFEJO,46.0,NC,61.67,PC,24.0,NC,53.67,PC,46.34,NC,
+cmr5xbig1006psityaveiboxb,cmr5xbig1006ksitydnz7bbdg,2026-07-03,Mainstream Elementary,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,cmr3lrv2d000fsr3o06ett9r3,16,IKORODU,"C & S PRIMARY SCHOOL I, MAJIDUN","LAGOS/IKORODU ROAD, MAJIDUN",59.0,PC,40.0,NC,24.0,NC,46.0,NC,42.25,NC,
+cmr5xbig5006ysityc9jyivys,cmr5xbig5006rsitynnddnz3q,2026-07-03,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv230009sr3o6hu1qfok,10,BADAGRY,"L.A. PRIMARY SCHOOL, APA",ALONG OWODE APA ROAD APA TOWN,0.0,NC,45.5,NC,24.0,NC,47.33,NC,29.21,NC,
+cmr5xbig9007asitycz779ng7,cmr5xbig90070sityqadavrk2,2026-07-03,Mainstream Elementary,Field Researcher,Partly Cloudy,No,Yes,Yes,Yes,cmr3lrv220008sr3oxz5rw1hq,9,BADAGRY,"A.D.S. PRIMARY SCHOOL, BADAGRY",ALONG GENERAL HOSPITAL ROAD BADAGRY,0.0,NC,30.67,NC,20.0,NC,49.33,NC,25.0,NC,"The major barrier is no door present. 
+Major classrooms had door but no hardware or type of lock were identified. "
+cmr93ncul002bwi09gf9vz923,cmr93mtnk001pwi09ymqrk0a0,2026-07-06,Mainstream Elementary,Field Researcher,,No,Yes,Yes,Yes,cmr3lrv46000vsr3o2cksm6ee,32,MUSHIN,AINA SOGUNRO PRIMARY SCHOOL,13 ATUNRASE S/LERE MUSIN,0.0,NC,65.0,PC,38.0,NC,72.0,PC,43.75,NC,"There are no ramps at the entrance to support universal design principle.
+There are no urinals in the male cubicle.
+WCs seating on a 2 stepped floor (460mm) above the finished floor level of the cubicle will not be comfortable for students with physical inabiblities to use without needing any assistance."
+cmr93qy1q002zwi09ihwg2aq7,cmr93qptk002rwi098j6rw91p,2026-07-06,Mainstream Elementary,Field Researcher,Partly Cloudy,No,Yes,Yes,Yes,cmr3lrv3r000ksr3oc9i3tr0i,21,KOSOFE,"EXPRESSWAY NURSERY & PRIMARY SCHOOL 1, IKOSI KETU","IKOSI ROAD, KETU",0.0,NC,46.0,NC,24.0,NC,32.0,NC,25.5,NC,No barriers found during audit
+cmr97860t00u7wi090llpkx7j,cmr977xwp00tvwi09rpfnuek2,2026-07-06,Mainstream Elementary,Field Researcher,,No,Yes,No,Yes,cmr3lrv45000usr3olc95ny1e,31,MUSHIN,ST. JUDE'S PRIMARY SCHOOL,22/28 ILASAMAJA RD MUSIN,0.0,NC,72.0,PC,0.0,NC,76.67,PC,37.17,NC,"1) There are no ramps to access the school building.
+2) absence of toilets for students (both male and female).
+"
+cmr97naoe00uzwi09jy2h2ovz,cmr97mvjq00upwi096vmt5c3k,2026-07-06,Special Needs School/Unit,Field Researcher,Partly Cloudy,Yes,Yes,Yes,Yes,cmr3lrv3s000lsr3ovji06w02,22,KOSOFE,"MARYLAND NURSERY & PRIMARY SCHOOL, MARYLAND",MARYLAND SCHOOL COMPLEX MARYLAND,66.0,PC,46.0,NC,24.0,NC,46.0,NC,45.5,NC,The building structures are not well zoned and 
+cmraeotsv000txt099x0xey94,cmraeobau000dxt09bdun7m47,2026-07-07,Mainstream Elementary,Field Researcher,Cool/Breezy,No,Yes,Yes,Yes,cmr3lrv4a000ysr3oavkw80pj,35,OJO,"L. A. NUR & PRY SCHOOL, IBA",IBA TOWN ALONG IPAJA ROAD,0.0,NC,83.67,FC,24.0,NC,56.0,PC,40.92,NC,
+cmrajpe1s001tla04apdkc9bz,cmrajp1wi000zla04uwtutocv,2026-07-07,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv49000xsr3obc6h1qa4,34,OJO,"F. O. A. NUR & PRY SCHOOL I, OKOKOMAIKO","PAKO BUS STOP, OKOKOMAIKO",0.0,NC,83.67,FC,24.0,NC,39.33,NC,36.75,NC,
+cmrak01sb000dlb04ihwfynx4,cmrak00170003lb04xb3vfz7m,2026-07-07,Special Needs School/Unit,Field Researcher,Partly Cloudy,Yes,Yes,Yes,Yes,cmr3lrv3v000nsr3o28j55nkd,24,LAGOS ISLAND,EREKO METHODIST PRIMARY SCHOOL,EREKO METHODIST PRIMARY SCHOOL,80.0,FC,46.0,NC,72.0,PC,32.0,NC,57.5,PC,No barriers found 
+cmralzxaz000hl704ysn6aahs,cmralzunt0003l704exu3jk38,2026-07-07,Mainstream Elementary,Field Researcher,Cool/Breezy,No,Yes,Yes,Yes,cmr3lrv4b000zsr3olgtwnaci,36,OJO,"AGANJU AKA NUR & PRY SCHOOL II, OKOKOMAIKO","AKOBERU STR., ABULE-AKA VILLAGE",0.0,NC,53.0,PC,24.0,NC,18.0,NC,23.75,NC,"All students in the inclusive unit are based on the ground level of the building, with only 3 classrooms. "
+cmrao39a9000bla04dgphsu7s,cmrao2txs0003la04x8o7kjmm,2026-07-07,Mainstream Elementary,Field Researcher,Partly Cloudy,No,Yes,Yes,Yes,cmr3lrv3u000msr3ojdm55r8v,23,LAGOS ISLAND,HOLY CROSS CATHOLIC PRIMARY SCHOOL,HOLY CROSS CATHOLIC PRIMARY SCHOOL,0.0,NC,46.0,NC,31.0,NC,32.0,NC,27.25,NC,No barriers found 
+cmrb0weom000dle04lcfdx00a,cmrb0wc1r0001le04pku477b9,2026-07-07,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv1o0000sr3o1poioydg,1,AGEGE,AMOSUN PRY SCHOOL,DAIRYFARM PRY SCH COMPLEX,0.0,NC,73.0,PC,53.0,PC,72.0,PC,49.5,NC,
+cmrb1fw9l000djr049iwx01ib,cmrb1ftus0001jr04o77902m3,2026-07-07,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv1q0001sr3ornj1u0uh,2,AGEGE,IBUKUN OLU PRIMARY SCHOOL,"DOPEMU ROAD, PAPA ASHAFA AGEGE",0.0,NC,70.67,PC,59.0,PC,72.0,PC,50.42,PC,
+cmrb28byr000bjs043wubhxgq,cmrb28ayl0001js046blxgnr9,2026-07-06,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv1s0002sr3om02smy3r,3,AGEGE,DAIRY FARM PRIMARY SCHOOL,DAIRYFARM PRY SCH COMPLEX,0.0,NC,73.0,PC,66.0,PC,86.0,FC,56.25,PC,
+cmrb583980007ld04oeoz3xd8,cmrb581zo0001ld04o3mrw50i,2026-07-07,Mainstream Elementary,Field Researcher,Light Rain,No,Yes,No,Yes,cmr3lrv1x0005sr3osjahvu3c,6,ALIMOSHO,"COMMUNITY PRY. SCH., ABULE-EGBA","ADENIJI IDOWU STR, OFF EKORO RD. ABULE EGBA",0.0,NC,80.0,FC,0.0,NC,44.0,NC,31.0,NC,
+cmrb66gm10009l104kpksfzxf,cmrb66dtx0001l1041gwo06xt,2026-07-07,Mainstream Elementary,Field Researcher,Light Rain,No,Yes,Yes,Yes,cmr3lrv1u0003sr3o0q26ynnr,4,ALIMOSHO,"ABATI PRY SCHOOL, ABATI","1, ABATI CLS. OFF SASA RD, ABATI B/S, AKOWONJO",0.0,NC,73.0,PC,59.0,PC,59.0,PC,47.75,NC,
+cmrbtyluk0017l504lr5o2ae7,cmrbtyh3x000rl5041x21sq0l,2026-07-08,Mainstream Elementary,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,cmr3lrv4h0014sr3ohumpnbfj,41,SURULERE,Nathan Pry School,"24, NATHAN STREET, OJUELEGBA",32.0,NC,46.0,NC,24.0,NC,46.0,NC,37.0,NC,During rainfall the school's building surroundings/grounds gets flooded. 
+cmrbwnuvb000zjv041c859dmh,cmrbwnrud000jjv04kqbvq20w,2026-07-08,Mainstream Elementary,Field Researcher,Light Rain,No,Yes,Yes,Yes,cmr3lrv4i0015sr3oz7n44zeh,42,SURULERE,Rabiatu Thampson Pry School,RABIAT THOMPSON STR,0.0,NC,83.67,FC,31.0,NC,53.0,PC,41.92,NC,School grounds gets flooded when rain falls. 
+cmrby6b000035ib047dhgzu96,cmrby5urm002pib04rmeiyqlq,2026-07-08,Special Needs School/Unit,Field Researcher,Heavy Rain,Yes,Yes,Yes,Yes,cmr3lrv28000csr3o84wk6hae,13,ETI-OSA,ARMY CHILDREN SCHOOL BONNY CAMP,"BONNY CANTONMENT, V/I",45.0,NC,46.0,NC,24.0,NC,46.0,NC,40.25,NC,No barriers found every audit were honest 
+cmrbyr4dx000hla04kg35ipgx,cmrbyr2870001la04mnsuv19w,2026-07-08,Mainstream Elementary,Field Researcher,,No,Yes,Yes,Yes,cmr3lrv4f0013sr3o9erni7se,40,SURULERE,Aiyetoro Pry School,"1, VICTOR OLAIYE STR",0.0,NC,79.0,PC,24.0,NC,46.33,NC,37.33,NC,
+cmrc1s8y3000ljp04cy0n8ajl,cmrc1s71f0003jp047i3k2toq,2026-07-08,Mainstream Elementary,Field Researcher,,No,Yes,Yes,Yes,cmr3lrv4j0016sr3o0fjjtiyx,43,SURULERE,Wesley Pry School I,"30, AJAO ROAD",0.0,NC,82.5,FC,22.0,NC,50.67,PC,38.79,NC,"The school is specially for the hearing impaired students. 
+No Mobility disability students. "
+cmrc65i81000nl404gcg5x9gx,cmrc6571x000bl40494t81v9f,2026-07-08,Mainstream Elementary,Field Researcher,Heavy Rain,No,Yes,Yes,Yes,cmr3lrv26000bsr3ot7avvzpf,12,ETI-OSA,AKINLADE PRIMARY SCHOOL,OKUN-MOPO,0.0,NC,46.0,NC,31.0,NC,46.0,NC,30.75,NC,No barriers found during audit 
+cmrcbxbsp0009k104zne1zr96,cmrcbwlzo0001k104gaupdks6,2026-07-08,Mainstream Elementary,Field Researcher,Heavy Rain,No,Yes,Yes,Yes,cmr3lrv25000asr3okezhdnum,11,ETI-OSA,AJIRAN PRIMARY SCHOOL,AJIRAN TOWN,0.0,NC,46.0,NC,31.0,NC,46.0,NC,30.75,NC,No barriers found 
+cmrcm5v90000nkv04zufmmdcv,cmrcm5tvf0001kv04h0juihhf,2026-07-08,Mainstream Elementary,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,c70a4xlmh0p2j6kb48k5xl98,44,SURULERE,Atunda-Olu School for the Physically and Mentally Challenged,"4/6, Adamu-Orisa Street, Off Adeniran Ogunsanya, Surulere, Lagos. (Note: While the main campus entrance sits on Adamu-Orisa Street, the school property stretches near Curtis Adeniyi Jones Close)",32.0,NC,66.33,PC,24.0,NC,52.67,PC,43.75,NC,
+cmrdg5dip0017l90482tniyup,cmrdg5byw000xl9043ols4hz4,2026-07-09,Special Needs School/Unit,Field Researcher,Cloudy/Overcast,Yes,Yes,Yes,Yes,cmr3lrv3o000isr3ofarkweb0,19,IKORODU,"L.G. PRIMARY SCHOOL, IPAKODO","BEACH ROAD, IPAKODO",32.0,NC,46.0,NC,31.0,NC,46.0,NC,38.75,NC,No barriers found 
+cmrdjitgj000bjr0453kha8y0,cmrdjir7d0003jr04zux8d1ya,2026-07-09,Mainstream Elementary,Field Researcher,Partly Cloudy,No,Yes,Yes,Yes,cmr3lrv2g000hsr3ob6tif8lp,18,IKORODU,"AFRICAN BETHEL PRY. SCHOOL, MAYA","OFF ITOKIN ROAD, IKORODU",0.0,NC,46.0,NC,24.0,NC,46.0,NC,29.0,NC,No barriers found during audit 
+cmrelcyr5000bl905m6vknizf,cmrelcy3a0001l905whwt3lvs,2026-07-10,Special Needs School/Unit,Field Researcher,Light Rain,No,Yes,Yes,Yes,cmr3lrv2b000esr3o1n7etntv,15,IKEJA,BOLA MEM. PRY SCHL,MOBOLAJI BANK ANTHONY WAY,0.0,NC,76.5,PC,45.0,NC,79.0,PC,50.13,PC,
+cmren679f000fkz04jt7f9itv,cmren63990003kz04xt6h7q7w,2026-07-10,Special Needs School/Unit,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,cmr3lrv29000dsr3o8uf2zp3w,14,IKEJA,ESTATE PRY SCHL,OPP. OLUWOLE ESTATE OGBA,86.0,FC,80.0,FC,66.0,PC,79.0,PC,77.75,PC,
+cmrepowmr000jl904pk3limgr,cmrepop9p0001l904bbmr0w3z,2026-07-07,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv3w000osr3ow3o6s924,25,LAGOS MAINLAND,ALL SAINT ANGLICAN PRIMARY SCHOOL,"21, MONTGOMERY ROAD YABA",0.0,NC,79.0,PC,44.5,NC,72.0,PC,48.88,NC,"1) no urinals in toilet cubicles of the male toilet section
+2) absence of ramps to access the school building 
+3) poor accessible walkway from the school gate to the school building 
+4) high threshold at door entrances might challenge inclusive accessibility into the spaces without pupils needing secondary assistance especially students on wheelchair will find chairs 
+5) door widths will be challenging for a pupil ok wheel chair to pass through 
+6) absence of grab bars in toilet cubicles to give support to students with physical inabilities "
+cmreswm5i000nlb04xvi4au62,cmresvxcy0001lb04z5a2oc99,2026-07-07,Special Needs School/Unit,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,cmr3lrv41000rsr3ojwvlje4t,28,LAGOS MAINLAND,MODUPE COLE MEM. CHILD CARE & TREATMENT HOME SCHOOL,"1, ST. FINBERS COL. RD. AKOKA",42.0,NC,81.33,FC,38.0,NC,72.0,PC,58.33,PC,"1) controlled floor slope to give mobility access across the entire facility (from school compound to classrooms) asides the raised floor at the toilet entrance 
+2) absence of urinals in the male cubicle 
+3) absence of grab bars in toilet cubicles
+4) no handrails along corridors and walkways to support mobility "
+cmrew5vgi002jlb042q6s4vtd,cmrew5u920029lb04g81itjam,2026-07-10,Mainstream Elementary,Field Researcher,Light Rain,No,Yes,Yes,Yes,cmr3lrv3q000jsr3oe9hxerpc,20,KOSOFE,"AJELOGO NURSERY & PRIMARY SCHOOL, KETU",AKINTOLA CLOSE OFF BARBINGTON STREET KETU-AJELOGO,0.0,NC,46.0,NC,24.0,NC,46.0,NC,29.0,NC,No barriers found 
+cmrfaax9l000jjj04btmxex77,cmrfaaupq0001jj041onaqeh9,2026-07-07,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv3z000qsr3om4kssst1,27,LAGOS MAINLAND,IJERO BAPT.PRIMARY SCHOOL,"44/50, ABULE NLA ROAD, EBUTE-METTA",0.0,NC,79.0,PC,35.0,NC,76.67,PC,47.67,NC,"1) unpaved access way from gate to the school building 
+2) no ramps to get into the school building, entrance features "
+cmrfd1gf9000pl204yhy4r6v5,cmrfd1bbe0001l204z60tvx45,2026-07-08,Mainstream Elementary,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,cmr3lrv42000ssr3osqm7zst1,29,MUSHIN,OJUWOYE COMM. PRIMARY SCHOOL,35 DAMENGORO ST MSIN,49.67,NC,81.33,FC,38.0,NC,79.0,PC,62.0,PC,"1) Too many split levels within the building which may restrict smooth transition between classrooms
+2) threshold on doors sills 
+3) no urinals for male students 
+4) absence of grab bars to give support
+5) unpaved walkway from the entrance gate to the school building "
+cmrfflofw000nl7044dfd28nh,cmrfflm6p0001l704u8l79i7h,2026-07-08,Mainstream Elementary,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,cmr3lrv43000tsr3o7fnbopaq,30,MUSHIN,OLISA PRIMARY SCHOOL,DADA OLISA ST MUSIN,52.0,PC,86.0,FC,45.0,NC,74.33,PC,64.33,PC,"1) threshold at door sills will make accessibility uncomfortable for special students 
+2) no handrails on ramps
+3) toilet cubicles are inadequate for physically challenged students 
+4) diverse split levels in the toilet area which wll affect seamless mobility "
+cmrfi4ktr000jl4046iudswgn,cmrfi4jne0001l404j2wgte1d,2026-07-08,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv3y000psr3o47wnakzq,26,LAGOS MAINLAND,ANSARUDEEN PRIMARY SCHOOL ODUNFA,"23, ODUNFA STREET EBUTE-METTA",0.0,NC,74.33,PC,38.0,NC,67.33,PC,44.92,NC,"1) unpacked play area which can be messy when raining 
+2) absence of ramps to access school buildings 
+3) door width are inadequate for inclusive accessibility"
+cmrfjv0ip0013l404p06kl9ik,cmrfjuytd000ll404ozivpwns,2026-07-09,Mainstream Elementary,Field Researcher,Light Rain,No,Yes,Yes,Yes,cmr3lrv4d0011sr3okm9zyd46,38,SOMOLU,IJEBU-TEDO PRY SCHOOL,PALM GROVE,0.0,NC,76.67,PC,45.0,NC,74.33,PC,49.0,NC,"1) sloppy site terrain 
+2) unpacked accessible walkways 
+3) no ramp at entrance 
+4) detached school toilet with accessible challenge because the entrance door is raised 900mm above the natural ground level."
+cmrfmptbo000jjt04qnxqtpse,cmrfmps9s0001jt04dgwqoedr,2026-07-09,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv4c0010sr3o4srookd4,37,SOMOLU,ADARANIJO PRY SCHOOL,IGBEHIN-DUN STREET PEDRO,0.0,NC,88.33,FC,38.0,NC,74.33,PC,50.17,PC,"1) very good and efficient walkway from the entrance gate linking the building block however, the absence of ramps into the building poses a challenge on universal accessibility 
+2) unaccessible play area for students on wheelchair 
+3) no urinals for male students 
+4) absence of grab bars to give stability 
+5) very small door widths to accommodate students on wheelchairs
+6) no universally accessible toilet cubicle"
+cmrfo7znx000vjt04q2t7v2d1,cmrfo7y6h000ljt04h1zm4jbn,2026-07-11,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv1v0004sr3o92qj045j,5,ALIMOSHO,"AFRICAN CHURCH PRY SCHL, MOSAN","IPAJA MOSALASI RD. MOSAN B/S, MOSAN",0.0,NC,80.0,FC,25.0,NC,93.0,FC,49.5,NC,
+cmrfonn0h0019jt04a1myl8cx,cmrfonk0e000xjt047r0pdc1r,2026-07-11,Mainstream Elementary,Field Researcher,Light Rain,Yes,Yes,Yes,Yes,cmr3lrv1y0006sr3o0quzrhm8,7,ALIMOSHO,"LOCAL GOVT. NUR/PRY. SCH. I, IGANDO",IKOTUN IGANDO ROAD. IGANDO,58.0,PC,76.5,PC,66.0,PC,93.0,FC,73.38,PC,
+cmrfp2ltu001xjt04acthun2h,cmrfp2gsi001bjt04ode8ftqs,2026-07-09,Special Needs School/Unit,Field Researcher,Hot/Humid,Yes,Yes,Yes,Yes,cmr3lrv4e0012sr3oq7rr8kew,39,SOMOLU,LAGOS STATE SPECIAL SCHOOL,NATIONAL ORTHOPAEDIC HOSPITAL COMPOUND,52.0,PC,76.67,PC,34.5,NC,62.67,PC,56.46,PC,"Poor circulation within the school compound from the access gate to the school blocks 
+2) 2 seperate school buildings with no paved connecting walkways
+3) inefficient ramps
+4) uncultivated school play ground "
+cmrfqtyl6000jld04ay7cs0cb,cmrfqtxjb0001ld04pf7n1xrh,2026-07-06,Mainstream Elementary,Field Researcher,Hot/Humid,No,Yes,Yes,Yes,cmr3lrv48000wsr3of1gsf1bf,33,MUSHIN,ALAKARA PRIMARY SCHOOL,14 KUGBUYI ST IDI-ORO MUSIN,0.0,NC,76.67,PC,38.0,NC,72.0,PC,46.67,NC,"1) no grab bars In toilet cubicles
+2) inadequate door widths
+3) absence of ramp to get into building from the gate
+4) unpaved and unfinished outdoor 
+5) no accessible walkway to Navigate from the entrance gate to the building"

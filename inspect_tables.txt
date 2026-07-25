@@ -1,0 +1,62 @@
+[Questionnaire]
+columns=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+row1:
+[('id', 'cmr5xbigp0086sity0lxx9hsf'), ('schoolId', 'cmr3lrv2f000gsr3ochaift84'), ('respondentType', 'Teacher'), ('role', 'Classroom Teacher'), ('roleOther', {'type': 'null'}), ('yearsExperience', '10'), ('pupilsWorkWith', 'Nil'), ('relationship', {'type': 'null'}), ('childMobilityAid', {'type': 'null'}), ('childMobilityOther', {'type': 'null'}), ('B1', '1'), ('B2', '2'), ('B3', '1'), ('B4', '1'), ('B5', '1'), ('C1', '4'), ('C2', '5'), ('C3', '4'), ('C4', '4'), ('D1', '5'), ('D2', '5'), ('D3', '1'), ('D4', '5'), ('PB1', {'type': 'null'}), ('PB2', {'type': 'null'}), ('PB3', {'type': 'null'}), ('PB4', {'type': 'null'}), ('PB5', {'type': 'null'}), ('PB6', {'type': 'null'}), ('PB7', {'type': 'null'}), ('PB8', {'type': 'null'}), ('openComments', {'type': 'null'}), ('totalScore', 3.15), ('sectionBScore', 1.2), ('sectionCScore', 4.25), ('sectionDScore', 4.0), ('parentSectionBScore', 0.0), ('shareToken', {'type': 'null'}), ('isSharedResponse', '1'), ('gpsLat', {'type': 'null'}), ('gpsLng', {'type': 'null'}), ('createdAt', '1783143028537'), ('updatedAt', '1783143028537')]
+row2:
+[('id', 'cmr5xbigt0088sityevslpmrt'), ('schoolId', 'cmr3lrv2f000gsr3ochaift84'), ('respondentType', 'Teacher'), ('role', 'Classroom Teacher'), ('roleOther', {'type': 'null'}), ('yearsExperience', '6'), ('pupilsWorkWith', 'Nil'), ('relationship', {'type': 'null'}), ('childMobilityAid', {'type': 'null'}), ('childMobilityOther', {'type': 'null'}), ('B1', '5'), ('B2', '5'), ('B3', '1'), ('B4', '1'), ('B5', '5'), ('C1', '5'), ('C2', '1'), ('C3', '1'), ('C4', '1'), ('D1', '5'), ('D2', '5'), ('D3', '5'), ('D4', '5'), ('PB1', {'type': 'null'}), ('PB2', {'type': 'null'}), ('PB3', {'type': 'null'}), ('PB4', {'type': 'null'}), ('PB5', {'type': 'null'}), ('PB6', {'type': 'null'}), ('PB7', {'type': 'null'}), ('PB8', {'type': 'null'}), ('openComments', 'It directly shapes their independence, emotional well being, and social integration. '), ('totalScore', 3.466666666666667), ('sectionBScore', 3.4), ('sectionCScore', 2.0), ('sectionDScore', 5.0), ('parentSectionBScore', 0.0), ('shareToken', {'type': 'null'}), ('isSharedResponse', '1'), ('gpsLat', 6.654559282388085), ('gpsLng', 3.476114801091812), ('createdAt', '1783143028541'), ('updatedAt', '1783143028541')]
+row3:
+[('id', 'cmr5xbigx008asityv59z1oyy'), ('schoolId', 'cmr3lrv200007sr3o12vnpkt7'), ('respondentType', 'Teacher'), ('role', 'Classroom Teacher'), ('roleOther', {'type': 'null'}), ('yearsExperience', '10'), ('pupilsWorkWith', 'Basic 5'), ('relationship', {'type': 'null'}), ('childMobilityAid', {'type': 'null'}), ('childMobilityOther', {'type': 'null'}), ('B1', '1'), ('B2', '4'), ('B3', '3'), ('B4', '4'), ('B5', '4'), ('C1', '4'), ('C2', '4'), ('C3', '4'), ('C4', '5'), ('D1', '5'), ('D2', '4'), ('D3', '5'), ('D4', '5'), ('PB1', {'type': 'null'}), ('PB2', {'type': 'null'}), ('PB3', {'type': 'null'}), ('PB4', {'type': 'null'}), ('PB5', {'type': 'null'}), ('PB6', {'type': 'null'}), ('PB7', {'type': 'null'}), ('PB8', {'type': 'null'}), ('openComments', 'The available facilities need to be maintained.'), ('totalScore', 4.066666666666666), ('sectionBScore', 3.2), ('sectionCScore', 4.25), ('sectionDScore', 4.75), ('parentSectionBScore', 0.0), ('shareToken', {'type': 'null'}), ('isSharedResponse', '0'), ('gpsLat', {'type': 'null'}), ('gpsLng', {'type': 'null'}), ('createdAt', '1783143028545'), ('updatedAt', '1783143028545')]
+
+[Interview]
+columns=[None, None, None, None, None, None, None, None, None, None, None, None, None]
+row1:
+[('id', 'cmr5xbijd009ksityi8yk1a24'), ('schoolId', 'cmr3lrv1o0000sr3o1poioydg'), ('interviewType', 'Pupil'), ('participantPseudonym', 'P72-1808'), ('interviewerName', 'Field Researcher'), ('dateOfInterview', '2026-07-02'), ('gpsLat', 9.0793868), ('gpsLng', 7.4134081), ('createdAt', '1783143028634'), ('updatedAt', '1783143028634'), ('audioRecording', {'type': 'null'}), ('audioMimeType', {'type': 'null'}), ('audioSize', {'type': 'null'})]
+row2:
+[('id', 'cmr5xbijm009vsityee5y6cy3'), ('schoolId', 'cmr3lrv2d000fsr3o06ett9r3'), ('interviewType', 'Teacher'), ('participantPseudonym', 'T73-1159'), ('interviewerName', 'Field Researcher'), ('dateOfInterview', '2026-07-03'), ('gpsLat', {'type': 'null'}), ('gpsLng', {'type': 'null'}), ('createdAt', '1783143028643'), ('updatedAt', '1783143028643'), ('audioRecording', {'type': 'null'}), ('audioMimeType', {'type': 'null'}), ('audioSize', {'type': 'null'})]
+row3:
+[('id', 'cmr5xbijq00a4sitycankk9hg'), ('schoolId', 'cmr3lrv2d000fsr3o06ett9r3'), ('interviewType', 'Administrator'), ('participantPseudonym', 'A73-1226'), ('interviewerName', 'Field Researcher'), ('dateOfInterview', '2026-07-03'), ('gpsLat', {'type': 'null'}), ('gpsLng', {'type': 'null'}), ('createdAt', '1783143028647'), ('updatedAt', '1783143028647'), ('audioRecording', {'type': 'null'}), ('audioMimeType', {'type': 'null'}), ('audioSize', {'type': 'null'})]
+
+[InterviewResponse]
+columns=[None, None, None, None, None, None, None, None]
+row1:
+[('id', 'cmr5xbije009lsitycxdj63x1'), ('interviewId', 'cmr5xbijd009ksityi8yk1a24'), ('questionCode', 'AUDIO_FILE'), ('questionText', 'Raw audio recording file reference'), ('responseText', 'interview_2026-07-02T17-11-05-788Z_b3f119270923ea7f.webm'), ('timestamp', {'type': 'null'}), ('fieldNotes', 'Recording available'), ('emotionalTone', {'type': 'null'})]
+row2:
+[('id', 'cmr5xbije009msity4yueit39'), ('interviewId', 'cmr5xbijd009ksityi8yk1a24'), ('questionCode', 'WEATHER'), ('questionText', 'Weather condition at time of interview'), ('responseText', 'Hot/Humid'), ('timestamp', {'type': 'null'}), ('fieldNotes', {'type': 'null'}), ('emotionalTone', {'type': 'null'})]
+row3:
+[('id', 'cmr5xbije009nsity2dcxch28'), ('interviewId', 'cmr5xbijd009ksityi8yk1a24'), ('questionCode', 'FIELD_NOTES'), ('questionText', 'Field notes and observations'), ('responseText', 'Student was quiet.'), ('timestamp', {'type': 'null'}), ('fieldNotes', {'type': 'null'}), ('emotionalTone', {'type': 'null'})]
+
+[AuditSummary]
+columns=[None, None, None, None, None, None, None, None, None, None, None, None, None]
+row1:
+[('id', 'cmr5xbifs0066sityx18oy0w4'), ('auditId', 'cmr5xbifs0061sityqdgdwm0d'), ('rampCompositeScore', 66.0), ('rampComplianceLevel', 'PC'), ('doorCompositeScore', 66.0), ('doorComplianceLevel', 'PC'), ('toiletCompositeScore', 45.0), ('toiletComplianceLevel', 'NC'), ('furnitureCompositeScore', 46.0), ('furnitureComplianceLevel', 'NC'), ('overallScore', 55.75), ('overallCompliance', 'PC'), ('keyBarriers', 'There were no barriers during the audit')]
+row2:
+[('id', 'cmr5xbifx006isityp9fmgf8u'), ('auditId', 'cmr5xbifx0068sity3ynj5s9p'), ('rampCompositeScore', 46.0), ('rampComplianceLevel', 'NC'), ('doorCompositeScore', 61.67), ('doorComplianceLevel', 'PC'), ('toiletCompositeScore', 24.0), ('toiletComplianceLevel', 'NC'), ('furnitureCompositeScore', 53.67), ('furnitureComplianceLevel', 'PC'), ('overallScore', 46.34), ('overallCompliance', 'NC'), ('keyBarriers', {'type': 'null'})]
+row3:
+[('id', 'cmr5xbig1006psityaveiboxb'), ('auditId', 'cmr5xbig1006ksitydnz7bbdg'), ('rampCompositeScore', 59.0), ('rampComplianceLevel', 'PC'), ('doorCompositeScore', 40.0), ('doorComplianceLevel', 'NC'), ('toiletCompositeScore', 24.0), ('toiletComplianceLevel', 'NC'), ('furnitureCompositeScore', 46.0), ('furnitureComplianceLevel', 'NC'), ('overallScore', 42.25), ('overallCompliance', 'NC'), ('keyBarriers', {'type': 'null'})]
+
+[BehavioralMap]
+columns=[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+row1:
+[('id', 'cmr5xbige007csity0lplm9cd'), ('schoolId', 'cmr3lrv200007sr3o12vnpkt7'), ('pupilPseudonym', 'P73-1201'), ('mobilityAid', 'Other'), ('mobilityAidOther', {'type': 'null'}), ('dateOfObservation', '2026-07-03'), ('observerName', 'Field Researcher'), ('weatherConditions', 'Partly Cloudy'), ('scheduleStart', '07:45'), ('scheduleBreak', '10:05'), ('scheduleLunch', '11:40'), ('scheduleEnd', '12:10'), ('gpsLat', 6.441137), ('gpsLng', 2.9536331), ('createdAt', '1783143028527'), ('updatedAt', '1783143028527')]
+row2:
+[('id', 'cmr5xbigi007lsityc2uysqx7'), ('schoolId', 'cmr3lrv230009sr3o6hu1qfok'), ('pupilPseudonym', 'P73-1339'), ('mobilityAid', 'Other'), ('mobilityAidOther', {'type': 'null'}), ('dateOfObservation', '2026-07-03'), ('observerName', 'Field Researcher'), ('weatherConditions', 'Partly Cloudy'), ('scheduleStart', '20:00'), ('scheduleBreak', '22:40'), ('scheduleLunch', '23:05'), ('scheduleEnd', '14:00'), ('gpsLat', {'type': 'null'}), ('gpsLng', {'type': 'null'}), ('createdAt', '1783143028530'), ('updatedAt', '1783143028530')]
+row3:
+[('id', 'cmr5xbigl007usity1rpxbuf9'), ('schoolId', 'cmr3lrv220008sr3oxz5rw1hq'), ('pupilPseudonym', 'P73-1440'), ('mobilityAid', 'Wheelchair'), ('mobilityAidOther', {'type': 'null'}), ('dateOfObservation', '2026-07-03'), ('observerName', 'Field Researcher'), ('weatherConditions', 'Sunny'), ('scheduleStart', '07:45'), ('scheduleBreak', '10:20'), ('scheduleLunch', '12:05'), ('scheduleEnd', '12:30'), ('gpsLat', 6.414414414414415), ('gpsLng', 2.882912344519197), ('createdAt', '1783143028534'), ('updatedAt', '1783143028534')]
+
+[ArchitecturalAudit]
+columns=[None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+row1:
+[('id', 'cmr5xbifs0061sityqdgdwm0d'), ('schoolId', 'cmr3lrv2f000gsr3ochaift84'), ('schoolType', 'Mainstream Elementary'), ('dateOfAudit', '2026-07-03'), ('auditorName', 'Field Researcher'), ('weatherConditions', 'Heavy Rain'), ('hasRamps', 'Yes'), ('hasDoors', 'Yes'), ('hasToilets', 'Yes'), ('hasFurniture', 'Yes'), ('gpsLat', 6.653613), ('gpsLng', 3.4786238), ('createdAt', '1783143028504'), ('updatedAt', '1783143028504')]
+row2:
+[('id', 'cmr5xbifx0068sity3ynj5s9p'), ('schoolId', 'cmr3lrv200007sr3o12vnpkt7'), ('schoolType', 'Mainstream Elementary'), ('dateOfAudit', '2026-07-03'), ('auditorName', 'Field Researcher'), ('weatherConditions', 'Sunny'), ('hasRamps', 'Yes'), ('hasDoors', 'Yes'), ('hasToilets', 'Yes'), ('hasFurniture', 'Yes'), ('gpsLat', {'type': 'null'}), ('gpsLng', {'type': 'null'}), ('createdAt', '1783143028509'), ('updatedAt', '1783143028509')]
+row3:
+[('id', 'cmr5xbig1006ksitydnz7bbdg'), ('schoolId', 'cmr3lrv2d000fsr3o06ett9r3'), ('schoolType', 'Mainstream Elementary'), ('dateOfAudit', '2026-07-03'), ('auditorName', 'Field Researcher'), ('weatherConditions', 'Light Rain'), ('hasRamps', 'Yes'), ('hasDoors', 'Yes'), ('hasToilets', 'Yes'), ('hasFurniture', 'Yes'), ('gpsLat', {'type': 'null'}), ('gpsLng', {'type': 'null'}), ('createdAt', '1783143028513'), ('updatedAt', '1783143028513')]
+
+[School]
+columns=[None, None, None, None, None, None, None, None, None, None]
+row1:
+[('id', 'cmr3lrv1o0000sr3o1poioydg'), ('sn', '1'), ('lgea', 'AGEGE'), ('name', 'AMOSUN PRY SCHOOL'), ('address', 'DAIRYFARM PRY SCH COMPLEX'), ('headTeacher', ''), ('phone', '08034457177'), ('lcda', 'AGEGE'), ('type', 'INC'), ('createdAt', '1783002703596')]
+row2:
+[('id', 'cmr3lrv1q0001sr3ornj1u0uh'), ('sn', '2'), ('lgea', 'AGEGE'), ('name', 'IBUKUN OLU PRIMARY SCHOOL'), ('address', 'DOPEMU ROAD, PAPA ASHAFA AGEGE'), ('headTeacher', 'OTITOLOJU AGBEKE OYINLOLA'), ('phone', '08028317456'), ('lcda', 'ORILE AGEGE'), ('type', 'REG'), ('createdAt', '1783002703599')]
+row3:
+[('id', 'cmr3lrv1s0002sr3om02smy3r'), ('sn', '3'), ('lgea', 'AGEGE'), ('name', 'DAIRY FARM PRIMARY SCHOOL'), ('address', 'DAIRYFARM PRY SCH COMPLEX'), ('headTeacher', 'RAHEEM IBRAHEEM AMINULAHI'), ('phone', '0803355260'), ('lcda', 'AGEGE'), ('type', 'REG'), ('createdAt', '1783002703601')]
